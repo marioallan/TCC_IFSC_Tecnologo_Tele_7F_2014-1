@@ -1,0 +1,13 @@
+# Extensões de arquvios a serem ignorados quando for feita o envio para para o servidor remoto - Github
+
+# Arquivos
+*.ini
+*qdf
+*.json
+*.qsf
+*.qws
+*.rpt
+
+
+#Pastas
+db/
