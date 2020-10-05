@@ -12,4 +12,4 @@ Dessa forma, esse trabalho visa a implementação de processadores didáticos, c
 
 Depois de descrito e simulado, o circuito será implementado fisicamente em uma classe de dispositivos programáveis chamada FPGA (Field Programmable Gate Arrays). Os FPGAs são hardware reconfigurável no qual as suas funcionalidades são definidas pelo usuário e não pelo fabricante, possibilitando inúmeras implementações sob medida de circuitos digitais.
 
-https://wiki.sj.ifsc.edu.br/index.php/Implementa%C3%A7%C3%A3o_de_Processadores_Did%C3%A1ticos_em_VHDL
+https://bit.ly/34ndZHr
