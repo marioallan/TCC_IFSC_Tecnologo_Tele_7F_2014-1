@@ -3,7 +3,7 @@
 ## IFSC - Campus São José - Tecnólogo em Sistemas de Telecomunicações - 7ª Fase - 2014-1
 
 #### Aluno: [**Mário Allan Lehmkuhl de Abreu**](https://bit.ly/3iAEHkJ)
-#### Orientador: [**Roberto de Matos**](https://bit.ly/2StDD7H)
+#### Orientador: [**Prof. Roberto de Matos, Dr.**](https://bit.ly/2StDD7H)
 
 ## Resumo
 Atualmente somos rodeados por equipamentos eletrônicos, como por exemplo, celular, televisão, computador, semáforo e caixa eletrônico, onde a maioria é composto por um ou mais processadores para executar suas respectivas funções. A compreensão da organização e da arquitetura dos processadores é essencial para o desenvolvimento de produtos otimizados e eficientes.
